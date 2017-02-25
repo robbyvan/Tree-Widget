@@ -1,5 +1,6 @@
 # Tree-Widget
-Simple UI to learn OOP
+Simple UI to learn OOP<br />
+   ![](./sample.jpeg)
 
 ## Syntax
    `var UIInstance = new TreeNode(nodeConfig, outputId);`<br />
@@ -9,4 +10,4 @@ Simple UI to learn OOP
 
 ## Example
    `const root = new TreeNode({nodeContent: 'Countries'}, 'tree-panel');`<br />
-   ![](./sample.jpeg)
+
