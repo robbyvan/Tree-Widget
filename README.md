@@ -2,9 +2,9 @@
 Simple UI to learn OOP
 
 ## Syntax
-   `var UIInstance = new TreeNode(nodeConfig, outputId);<br />
-   @param {Object} nodeConfig <br />
-   @param {String} outputId`
+   `var UIInstance = new TreeNode(nodeConfig, outputId);`<br />
+   `@param {Object} nodeConfig`<br />
+   `@param {String} outputId` <br />
   
 
 ## Example
