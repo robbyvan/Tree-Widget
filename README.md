@@ -2,11 +2,11 @@
 Simple UI to learn OOP
 
 ## Syntax
-   `var UIInstance = new TreeNode(nodeConfig, outputId);
-   @param {Object} nodeConfig 
+   `var UIInstance = new TreeNode(nodeConfig, outputId);<br />
+   @param {Object} nodeConfig <br />
    @param {String} outputId`
   
 
 ## Example
-   `const root = new TreeNode({nodeContent: 'Countries'}, 'tree-panel');`
-   
+   `const root = new TreeNode({nodeContent: 'Countries'}, 'tree-panel');`<br />
+   ![](./sample.jpeg)
