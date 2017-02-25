@@ -1,6 +1,6 @@
 # Tree-Widget
 Simple UI to learn OOP<br />
-[Demo: Tree Widget](https://robbyvan.github.io/2016_Baidu_IFE/stage2/tree%20widget/)<br />
+[Demo: Tree Widget](https://robbyvan.github.io/Tree-Widget/index.html)<br />
 ![](./sample.jpeg)
 
 ## Syntax
