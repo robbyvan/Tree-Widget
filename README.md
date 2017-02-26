@@ -1,6 +1,6 @@
 # Tree-Widget
 Simple UI to learn OOP<br />
-[Demo: Tree Widget](https://robbyvan.github.io/Tree-Widget/index.html)<br />
+[Demo: Tree Widget](https://robbyvan.github.io/Tree-Widget/index.html)<br /> (May not display correctly in browers that does not support ES6)
 ![](./sample.jpeg)
 
 ## Syntax
