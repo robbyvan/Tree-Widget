@@ -1,7 +1,6 @@
 # Tree-Widget
 Simple UI to learn OOP<br />
 [Demo: Tree Widget](https://robbyvan.github.io/Tree-Widget/index.html)<br /> (May not display correctly in browers that does not support ES6)
-![](./sample.jpeg)
 
 ## Syntax
 ```js
@@ -19,8 +18,9 @@ Simple UI to learn OOP<br />
 
 ## Examples
 ```js
-         /* Instantiate root */
-        const root = new TreeNode({nodeContent: 'Engineering'}, 'tree-panel');
-        root.init(root.nodeContent);
+   /* Instantiate root */
+   const root = new TreeNode({nodeContent: 'Engineering'}, 'tree-panel');
+   root.init(root.nodeContent);
 ```
-
+<br />
+![](./sample.jpeg)
