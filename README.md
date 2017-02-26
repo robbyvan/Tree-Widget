@@ -22,21 +22,5 @@ Simple UI to learn OOP<br />
          /* Instantiate root */
         const root = new TreeNode({nodeContent: 'Engineering'}, 'tree-panel');
         root.init(root.nodeContent);
-
-        /*Add Initial nodes*/
-        root.addTreeNode('Computer Science');
-        root.children[0].addTreeNode('Data Structure and Algorithms');
-        root.children[0].addTreeNode('Operating System');
-        root.children[0].addTreeNode('Programming Languages');
-        root.children[0].children[2].addTreeNode('JavaScript');
-        root.children[0].children[2].addTreeNode('C++');
-        root.children[0].addTreeNode('Database');
-        root.children[0].addTreeNode('Computer Networks');
-        root.addTreeNode('Electrical Engineering');
-        root.children[1].addTreeNode('Analog Circuit');
-        root.children[1].addTreeNode('Digital Circuit');
-        root.children[1].addTreeNode('Computer Networks');
-
-        root.children[1].addTreeNode('Computer Networks');
 ```
 
