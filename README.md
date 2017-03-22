@@ -23,4 +23,3 @@ Simple UI to learn OOP<br />
    root.init(root.nodeContent);
 ```
 <br />
-![](./sample.jpeg)
